@@ -1,6 +1,6 @@
 ---
-description: Review your implementation of a code-along exercise and get structured feedback — what's done, what's missing, what's wrong. No solutions given. Usage: /check-exercise [exercise-number]
-allowed-tools: Glob, Read, Bash
+description: "Review your implementation of a code-along exercise and get structured feedback — what's done, what's missing, what's wrong. No solutions given. Usage: /check-exercise [exercise-number]"
+allowed-tools: "Glob, Read, Bash"
 ---
 
 Review the learner's implementation for exercise $ARGUMENTS.
