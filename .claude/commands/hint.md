@@ -1,6 +1,6 @@
 ---
-description: Get a progressive hint for a specific exercise step — each call reveals a little more without giving the answer. Usage: /hint [exercise N step M] [level 1|2|3]
-allowed-tools: Glob, Read
+description: "Get a progressive hint for a specific exercise step — each call reveals a little more without giving the answer. Usage: /hint [exercise N step M] [level 1|2|3]"
+allowed-tools: "Glob, Read"
 ---
 
 Give a progressive hint for: $ARGUMENTS
