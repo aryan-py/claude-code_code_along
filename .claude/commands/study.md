@@ -1,6 +1,6 @@
 ---
-description: Generate a study guide with concepts to understand, curated reading list, and key terms before attempting a code-along exercise. Usage: /study <exercise-number>
-allowed-tools: Glob, Read, Write
+description: "Generate a study guide with concepts to understand, curated reading list, and key terms before attempting a code-along exercise. Usage: /study <exercise-number>"
+allowed-tools: "Glob, Read, Write"
 ---
 
 Produce a focused study guide for exercise $ARGUMENTS.
