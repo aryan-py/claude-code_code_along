@@ -1,6 +1,6 @@
 ---
-description: Analyze the current project and generate a code-along exercises file that teaches someone to rebuild it from scratch. Usage: /generate-exercises [focus-area]
-allowed-tools: Glob, Read, Write, Bash
+description: "Analyze the current project and generate a code-along exercises file that teaches someone to rebuild it from scratch. Usage: /generate-exercises [focus-area]"
+allowed-tools: "Glob, Read, Write, Bash"
 ---
 
 Analyze this project and produce a complete code-along exercises file.
