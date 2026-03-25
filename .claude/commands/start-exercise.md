@@ -1,6 +1,6 @@
 ---
-description: Generate a starter file for a code-along exercise with imports, empty stubs, and TODO comments — one per instruction step. Usage: /start-exercise <exercise-number>
-allowed-tools: Glob, Read, Write
+description: "Generate a starter file for a code-along exercise with imports, empty stubs, and TODO comments — one per instruction step. Usage: /start-exercise <exercise-number>"
+allowed-tools: "Glob, Read, Write"
 ---
 
 Create a starter file for exercise $ARGUMENTS.
